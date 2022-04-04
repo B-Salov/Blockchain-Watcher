@@ -1,9 +1,5 @@
-This is a blockchain watcher, which can get wallet balance
-and convert it into fiat.
+You have to insert your infura link in 'constants.py' to use this program.
 
-Project Plan:
-1) Add block processing
-1.1) Get gas, difficulty etc.
-2) Add transaction processing
-2.1) Gas, difficulty, sender, recipient
-3) Create UI
+This is a blockchain watcher, which can get wallet balance
+and convert it into fiat. Also, this program can get block 
+and transaction info.
